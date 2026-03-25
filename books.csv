@@ -1,0 +1,26 @@
+id,title,author,quantity
+1,Clean Code,Robert C. Martin,9
+2,Effective Java,Joshua Bloch,8
+3,Design Patterns,Erich Gamma,5
+4,Refactoring,Martin Fowler,7
+5,The Pragmatic Programmer,Andrew Hunt,6
+6,Head First Java,Kathy Sierra,9
+7,Java Concurrency in Practice,Brian Goetz,4
+8,Introduction to Algorithms,Thomas H. Cormen,3
+9,Cracking the Coding Interview,Gayle Laakmann McDowell,12
+10,Algorithms,Robert Sedgewick,6
+11,Code Complete,Steve McConnell,5
+12,The Clean Coder,Robert C. Martin,7
+13,Working Effectively with Legacy Code,Michael Feathers,4
+14,Structure and Interpretation of Computer Programs,Harold Abelson,2
+15,Artificial Intelligence: A Modern Approach,Stuart Russell,3
+16,Computer Networks,Andrew S. Tanenbaum,6
+17,Operating System Concepts,Abraham Silberschatz,5
+18,Database System Concepts,Henry F. Korth,8
+19,Modern Operating Systems,Andrew S. Tanenbaum,4
+20,Deep Learning,Ian Goodfellow,3
+21,Machine Learning,Tom M. Mitchell,5
+22,Python Crash Course,Eric Matthes,9
+23,Fluent Python,Luciano Ramalho,6
+24,You Don't Know JS,Kyle Simpson,7
+25,Eloquent JavaScript,Marijn Haverbeke,8

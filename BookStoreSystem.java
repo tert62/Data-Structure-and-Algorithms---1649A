@@ -91,7 +91,7 @@ public class BookStoreSystem {
                 String[] d = line.split(",");
 
                 int id = Integer.parseInt(d[0]);
-                String cus = d[1].trim().toLowerCase(); // 🔥 normalize
+                String cus = d[1].trim().toLowerCase(); 
                 int bookId = Integer.parseInt(d[2]);
                 String status = d[3];
 
@@ -286,7 +286,7 @@ public class BookStoreSystem {
         pause();
     }
 
-    // ===== SEARCH ORDER (🔥 VIEWER ONLY OWN) =====
+    // ===== SEARCH ORDER ( VIEWER ONLY OWN) =====
     public void searchOrder() {
 
         System.out.print("Enter Order ID: ");
@@ -302,7 +302,6 @@ public class BookStoreSystem {
         } 
         else {
 
-            // 🔐 VIEWER chỉ xem order của mình
             if (!isAdmin() && !isStaff()) {
 
                 if (!found.customer.equals(currentUser.username)) {
